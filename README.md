@@ -16,6 +16,7 @@ You can talk to me about,
 - Database stuff using **SQlite, MongoDB, MySQL, PostgreSQL**
 - Web automation using **Puppeteer**
 - Deployment stuff using **Docker**
+- **VPS** Server setup
 
 You can still talk to me about things I am still learning,
 - Frontend stuff like **Vue, ReactJS, Angular, PWA**
