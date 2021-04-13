@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Sohag Hasan</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+
+    <link rel="stylesheet" href="style.css">
+
+    <link
+        href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700'
+        rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css" />
+    <meta name="generator" content="Hexo 5.2.0">
+</head>
+
+<body>
+    <div id="container">
+        <div id="wrap">
+            <article id="page-" class="article">
+                <main class="site-main home" role="main">
+                    <header class="entry-header fading">
+                        <h1 class="entry-title">Sohag Hasan</h1>
+                        <small>PHP and JS Programmer</small>
+                    </header><!-- .entry-header -->
+                    <div id="screen-fill">
+                        <div class="window editor fading">
+                            <div class="header">
+                                <span class="bullet bullet-red"></span><span class="bullet bullet-yellow"></span><span
+                                    class="bullet bullet-green"></span><span
+                                    class="title">~/Portfolio/App/Http/Controllers/ShowProfile.php</span>
+                            </div>
+                            <div class="body">
+                                <ol class="code">
+                                    <li>
+                                        <span class="code">
+                                            &lt;?php
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span class="code">
+                                            <span class="v">namespace</span>
+                                            <span class="io"> App\Http\Controllers</span>;
+                                        </span>
+                                    </li>
+                                    <li><span class="code"></span></li>
+                                    <li>
+                                        <span class="code">
+                                            <span class="v">use</span>
+                                            <span class="io"> App\Http\Controllers\Controller</span>;
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span class="code">
+                                            <span class="v">use</span>
+                                            <span class="io"> App\User</span>;
+                                        </span>
+                                    </li>
+                                    <li><span class="code"></span></li>
+                                    <li>
+                                        <span class="code">
+                                            <span class="v">class</span>
+                                            <span class="io"> ShowProfile</span>
+                                            <span class="v"> extends</span>
+                                            <span class="io"> Controller</span>
+                                        </span>
+                                    </li>
+                                    <li><span class="code"> <span class="io">{</span></span></li>
+                                    <li>
+                                        <span class="code">&nbsp;&nbsp;
+                                            /**
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span class="code">&nbsp;&nbsp;
+                                            * Show the profile for Sohag Hasan.
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span class="code">&nbsp;&nbsp;
+                                            *
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span class="code">&nbsp;&nbsp;
+                                            * <span class="v">@param int</span> $id
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span class="code">&nbsp;&nbsp;
+                                            * <span class="v">@return View</span>
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span class="code">&nbsp;&nbsp;
+                                            */
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span class="code">&nbsp;&nbsp;</span>
+                                    </li>
+                                    <li>
+                                        <span class="code">&nbsp;&nbsp;
+                                            <span class="v">public function </span>
+                                            <span class="io">__invoke(<span class="v">$id</span>){</span>
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span class="code">&nbsp;&nbsp;&nbsp;&nbsp;
+                                            <span class="v">return </span>
+                                            <span class="io">view(</span>'user.profile', ['user' =>
+                                            <span class="v">User</span>::<span class="io">findOrFail(<span
+                                                    class="v">$id</span>)</span>]<span class="io">)</span>;
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span class="code">&nbsp;&nbsp;
+                                            <span class="io">}</span>
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span class="code">
+                                            <span class="io">}</span>
+                                        </span>
+                                    </li>
+                                </ol>
+                            </div>
+                        </div>
+
+                        <div class="window browser fading">
+                            <div class="header">
+                                <span class="bullet bullet-red"></span><span class="bullet bullet-yellow"></span><span
+                                    class="bullet bullet-green"></span><span class="title"><span
+                                        class="scheme">https://</span>shuvo.pro</span>
+                            </div>
+                            <div class="body">
+                                <p>&#9874; Current stack: <b>LAMP</b> </p>
+                                <p>&#9874; Current position: <b>Software Engineer</b> </p>
+                                <p>&#9874; Working since: <b>2017</b> </p>
+                                <p>
+                                    &#9874; Current Technologies:
+                                </p>
+                                <ul class="technology">
+                                    <li>Laravel</li>
+                                    <li>NodeJS</li>
+                                    <li>Vue</li>
+                                    <li>WebRTC</li>
+                                    <li>AWS</li>
+                                    <li>Git</li>
+                                    <li>PWA</li>
+                                    <li>REST Api</li>
+                                    <li>Docker</li>
+                                    <li>Payment-Gateway</li>
+                                    <li>Web-Scraping</li>
+                                </ul>
+                                <p>&#9874; Links:</p>
+                                <ul class="technology">
+                                    <li>
+                                        <a href="https://shuvothecoder.com/" target="_blank">Personal Blog</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://github.com/shuvo575" target="_blank">GitHub</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://medium.com/shuvos-notes" target="_blank">Medium</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://stackoverflow.com/cv/shuvo575"
+                                            target="_blank">stackoverflow</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://bd.linkedin.com/in/shuvo575" target="_blank">linkedin</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </main>
+            </article>
+        </div>
+    </div>
+</body>
+
+</html>
