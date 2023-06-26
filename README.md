@@ -26,6 +26,7 @@ I'm Sohag, Fullstack 🧑‍💻️ developer from 🇧🇩 Dhaka, Bangladesh. �
 - Machine Learning
 
 ### ⚖️ Certifications
+- *Certified Laravel Developer*
 - Amazon Web Services (AWS)
 - Foundations of Project management
 - UI & UX Design
