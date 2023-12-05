@@ -5,7 +5,7 @@ I'm Sohag, Fullstack 🧑‍💻️ developer from 🇧🇩 Dhaka, Bangladesh. �
 [![Facebook Badge](https://img.shields.io/badge/-shuvo575-1877F2?style=flat-square&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/shuvo575)](https://facebook.com/shuvo575) [![Twitter Badge](https://img.shields.io/badge/-@shuvo575-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shuvo575)](https://twitter.com/shuvo575) [![Linkedin Badge](https://img.shields.io/badge/-shuvopro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shuvopro/)](https://www.linkedin.com/in/shuvopro/) [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sohag.web.dev@gmail.com)](mailto:sohag.web.dev@gmail.com)
 
 ### 🔥🔥 Currently working on
-- Lead Software Developer at [![](https://app.mobypay.my/img/mobypay-logo.png) MobyPay](https://app.mobypay.my)   [Tech stack: LAMP (Linux, Apache, MySQL, PHP)]
+- Technical Lead at [![](https://app.mobypay.my/img/mobypay-logo.png) MobyPay](https://app.mobypay.my)   [Tech stack: LAMP (Linux, Apache, MySQL, PHP)]
 - Founder of [![](https://sohayika.com/icons/icon-36.png) Sohayika](https://sohayika.com) (Job Exam Preparation Helper)
 
 ### 🖥 Technologies
