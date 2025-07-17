@@ -4,7 +4,7 @@
 
 I'm Sohag, Fullstack 🧑‍💻️ developer from 🇧🇩 Dhaka, Bangladesh. ➕ I like to 🥼 experiment a lot! 
 
-[![Facebook Badge](https://img.shields.io/badge/-shuvo575-1877F2?style=flat-square&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/shuvo575)](https://facebook.com/shuvo575) [![Linkedin Badge](https://img.shields.io/badge/-sohag-pro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohag-pro/)](https://www.linkedin.com/in/sohag-pro/) [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@sohag.pro)](mailto:hello@sohag.pro)
+[![Facebook Badge](https://img.shields.io/badge/-shuvo575-1877F2?style=flat-square&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/shuvo575)](https://facebook.com/shuvo575) [![Linkedin Badge](https://img.shields.io/badge/-shuvopro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohag-pro/)](https://www.linkedin.com/in/sohag-pro/) [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@sohag.pro)](mailto:hello@sohag.pro)
 
 ### 🔥🔥 Currently working on
 - Technical Lead at [![](https://app.mobypay.my/img/mobypay-logo.png) MobyPay](https://app.mobypay.my)   [Tech stack:  Linux, NginX, MySQL, PHP, Node]
