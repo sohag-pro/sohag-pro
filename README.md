@@ -13,21 +13,22 @@ I'm Sohag, Fullstack 🧑‍💻️ developer from 🇧🇩 Dhaka, Bangladesh. �
 ### 🖥 Technologies
 
 ##### You can talk to me about,
-- Front-end development using **HTML, CSS, JS, Vue, ReactJS, Material Design, Bootstrap**
-- Backend development using **PHP, Laravel, Lumen, Node**
+- Front-end development using **HTML, CSS, JS, Vue, ReactJS, Material Design, Tailwind, Bootstrap**
+- Backend development using **PHP, Laravel, Lumen, Node, GO**
 - Database stuff using **SQlite, MongoDB, MySQL, PostgreSQL**
-- Web automation using **Puppeteer**
+- Web automation using **Puppeteer, n8n**
 - Deployment stuff using **Docker, AWS, VPS, Github Actions**
 
 ##### You can still talk to me about things I am still learning,
 - Frontend stuff like **Angular, PWA**
 - Backend stuff like **Django**
 - CMS stuff like **Wordpress**
-- Languages like **GO, Python 3**
+- Languages like **Python 3**
 - Data structures and algorithms
 - Machine Learning
 
 ### ⚖️ Certifications
+- **AWS Certified Solutions Architect – Associate**
 - *Certified Laravel Developer*
 - Amazon Web Services (AWS)
 - Foundations of Project management
